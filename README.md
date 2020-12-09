@@ -2,8 +2,6 @@
 
 # 오픈소스 소프트웨어
 
-<img src=add.png width=400 height=250>
-
 |<center>목차</center>|
 |---|
 |[1. 오픈소스 소프트웨어 소개](#오픈소스-소프트웨어)|
@@ -16,7 +14,6 @@
 
 ------------
 
-<img src=opensource.png width=800 height=300>
 
 ## 오픈소스 소프트웨어
 ### Open Source / FOSS (Free and Open-Source Software)
@@ -34,7 +31,7 @@
 
 -------------
 ## 오픈소스 소프트웨어 장점 및 단점
-<img src=advantage.jpg width=700 height=300>
+
 
 ### 장점
 **1. 비용 절감**   
@@ -86,7 +83,6 @@
 
 
 ***오픈소스 소프트웨어의 활용은 더욱 확대하고 있다***    
-<img src=table.jpg width=500 height=300>
 
 -------------------------
 ## 성공한 오픈소스 프로젝트의 종류
